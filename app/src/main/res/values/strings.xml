@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">singlescreenapp</string>
+    <string name="imgContentDesc">Company logo in the context of customer searching using confusing road signs</string>
+    <string name="name">Agensy</string>
+    <string name="address">123 45th Street \nCoeur d\'Alene, ID\nPhone: 208.555.0123\nOpen Monday to Friday\n8am to 5pm PST</string>
+    <string name="slogan">Helping your business be\nknown in a digital world!\nContact us to begin your \ndigital ad campaign.</string>
+</resources>
